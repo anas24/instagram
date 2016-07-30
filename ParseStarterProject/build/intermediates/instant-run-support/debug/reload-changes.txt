@@ -1,0 +1,2 @@
+CHANGED,/home/anas/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/parse/starter/userslist$override.class
+CHANGED,/home/anas/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
